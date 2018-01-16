@@ -1,0 +1,11 @@
+{
+  "files": {
+    "index.js": "8ff027685d86d42009afa904d62f2399aaa0edca544e7ce5a7563d0b5da83970",
+    "module.json": "511eb16dcbad0685420058b7e078a40ddc22a708a0cc6b5519bf43f91a23b128"
+  },
+    "defs": {
+        "S_COMPLETE_EVENT_MATCHING_QUEST": 1,
+        "C_COMPLETE_DAILY_EVENT": 1,
+        "C_COMPLETE_EXTRA_EVENT": 1
+    }
+}
